@@ -16,5 +16,3 @@ Purpose of finance analytics: Evaluation of financial performance, support decis
 Importance of these reports: Aid in benchmarking against industry peers and the previous period's foundation for budgeting and forecasting.
 
 Role of reports: Align financial planning with strategic goals. Instill confidence in the organization's financial outlook.
-
-Real-time b
